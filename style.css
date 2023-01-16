@@ -89,7 +89,7 @@ background-color: var(--background);
     height: 30px;
     width: 30px;
     border-radius: 12px;
-    background-image: url(/lupa.png);
+    background-image: url(lupa.png);
     background-size: cover;
     margin-left: -4px;
 }
@@ -163,7 +163,7 @@ background-color: var(--background);
         height: 50px;
         width: 50px;
         border-radius: 25px;
-        background-image: url(/face.png);
+        background-image: url(face.png);
         background-size: cover;
         margin-left: -4px;
         margin-top: 10px;
